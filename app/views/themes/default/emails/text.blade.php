@@ -1,0 +1,1 @@
+Eternal War One\n===============\n\n{{ $title }}\n------\n\n{{ $content }}\n\nwww.ewo-le-monde.com\n\nVersion HTML : {{ URL::route('home.email', $hash) }}
